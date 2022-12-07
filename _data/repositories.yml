@@ -1,7 +1,6 @@
 github_users:
   - lyons89
-  - rformassspectrometry
-  - fgcz
+  - lgatto
 
 github_repos:
   - Nesvilab/FragPipe
@@ -9,6 +8,3 @@ github_repos:
   - mikelove/awesome-multi-omics
   - Vitek-Lab/MSstats
   - egeulgen/pathfindR
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
