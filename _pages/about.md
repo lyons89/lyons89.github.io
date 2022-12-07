@@ -8,17 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  address:
+  
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Scott Lyons, I have a Ph.D in proteomics. 
+My name is Scott Lyons, I have a Ph.D in proteomics. After I started a postdoc and got more into proteomics bioinformatics. I've had an itch recently after spending the last two years closely watching Ben Orsburn [proteomics news](https://proteomicsnews.blogspot.com/) blog.
+
+I somehow managed to learn R in graduate school and continued to perfect my coding skills during my postdoc. I've spent a lot of my time looking for ways to make my proteomics data analysis faster, more efficient, and reproducible and I hope to use his github pages website as a resource for myself and others who follow in my path.
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

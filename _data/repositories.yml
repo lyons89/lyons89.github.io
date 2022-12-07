@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lyons89
+  - rformassspectrometry
+  - fgcz
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
+  - Nesvilab/FragPipe
+  - lgatto/MSnbase
+  - mikelove/awesome-multi-omics
+  - Vitek-Lab/MSstats
+  - egeulgen/pathfindR
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
