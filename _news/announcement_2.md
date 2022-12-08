@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The second more detailed post?
-date: 2015-11-07 16:11:00-0400
+date: 2015-12-06
 inline: false
 ---
 
